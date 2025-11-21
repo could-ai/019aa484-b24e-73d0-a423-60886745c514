@@ -89,7 +89,7 @@ class _HomeScreenState extends State<HomeScreen> {
               maxLines: 3,
               decoration: const InputDecoration(
                 hintText: 'Ví dụ: Thiết kế ảnh cưới phong cách Hàn Quốc, lãng mạn, tone màu pastel...',
-                prefixIcon: Icon(Icons.magic_button, color: Colors.purpleAccent),
+                prefixIcon: Icon(Icons.auto_awesome, color: Colors.purpleAccent),
               ),
             ),
 
